@@ -28,5 +28,3 @@ Program ini adalah implementasi **Logika Fuzzy** untuk mengontrol kecepatan kipa
 - `numpy`: Untuk operasi array dan perhitungan numerik
 - `scikit-fuzzy`: Library khusus untuk implementasi logika fuzzy
 - `matplotlib`: Untuk visualisasi grafik membership function
-
-Program ini cocok untuk memahami dasar-dasar fuzzy logic dalam sistem kontrol otomatis.
